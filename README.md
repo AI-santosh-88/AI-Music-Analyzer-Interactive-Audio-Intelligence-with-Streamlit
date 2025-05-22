@@ -24,13 +24,21 @@ An AI-powered web application that analyzes uploaded music files (MP3 or WAV) an
 #  Packages Used:
 # Package	Purpose
 1.streamlit -	Web interface and file uploader
+
 2.libros - a	Audio signal processing and feature extraction
+
 3.numpy -	Numerical operations
+
 4.matplotlib - 	Visualizing waveforms and spectrograms
+
 5.soundfile - 	Audio reading and writing
+
 6.base64 - 	Embedding background images
+
 7.json - 	Exporting metadata to JSON
+
 8.os - 	File system operations
+
 9.traceback - 	Error handling and debugging
 
 
