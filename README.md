@@ -28,7 +28,7 @@ An AI-powered web application that analyzes uploaded music files (MP3 or WAV) an
 
 #  Packages Used:
 # Package	Purpose
-1. streamlit -	Web interface and file uploader
+1.streamlit -	Web interface and file uploader
 
 2.libros - a	Audio signal processing and feature extraction
 
