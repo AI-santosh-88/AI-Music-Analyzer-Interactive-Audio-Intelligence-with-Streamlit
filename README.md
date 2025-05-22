@@ -15,10 +15,15 @@ An AI-powered web application that analyzes uploaded music files (MP3 or WAV) an
 
 #  Key Responsibilities (Developer Perspective):
 •	✅ Designed and built an end-to-end Streamlit web app for music analysis.
+
 •	✅ Integrated librosa for advanced audio feature extraction and signal processing.
+
 •	✅ Created visualizations for waveform, spectrogram, and chroma energy.
+
 •	✅ Implemented chroma-based key estimation using pitch class profiles.
+
 •	✅ Enabled export of metadata and musical features to structured JSON.
+
 •	✅ Added background theming and a responsive UI using Streamlit customization
 
 #  Packages Used:
