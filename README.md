@@ -41,6 +41,10 @@ An AI-powered web application that analyzes uploaded music files (MP3 or WAV) an
 
 9.traceback - 	Error handling and debugging
 
+#  Summary :
+•	Developed a full-stack AI Music Analyzer using Streamlit and Librosa that allows users to upload MP3/WAV files and receive visual and statistical insights such as tempo, key, loudness, and chroma energy. Implemented key estimation algorithms and data visualization for audio signals, enabling content creators and engineers to extract metadata in real-time and export analysis to JSON.
+
+
 
 
 
